@@ -12,7 +12,7 @@ Pizza Sipariş Sistemi, kullanıcıların menüdeki pizzayı ve istedikleri sosl
 ![resim4](![image](https://github.com/user-attachments/assets/e4dcf59e-df34-4a56-865c-dac6b0ecd9e8)
 
 * Müşteri uygun seçimi yaptıktan sonra sipariş detayları ile birlikte ödeme kısmına geçer.
-* 
+
 * Ödeme kısmında kredi kartı bilgileri alındıktan sonra sipariş işlemi onaylanır.
 ![resim1](![image](https://github.com/user-attachments/assets/ab8d9f63-991f-4386-9a09-3594642704c9)
 
